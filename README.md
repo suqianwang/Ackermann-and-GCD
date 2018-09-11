@@ -9,7 +9,11 @@ Discrete Structures for Computing
 •	Run the “main.cpp” one time, you get to implement two functions each for one time. If you want to get other testing results, run the file again. I didn’t put any loops because I don’t know exactly how you will test this.
 
 •	output includes :
+  
   o	the value of the current arguments whenever the function is invoked.
+  
   o	the final result of each pairs of value.
+  
   o	how many times the function is invoked.
+  
   o	text instructions
