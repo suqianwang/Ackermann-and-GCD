@@ -10,10 +10,10 @@ Discrete Structures for Computing
 
 •	output includes :
   
-  o	the value of the current arguments whenever the function is invoked.
+	o	the value of the current arguments whenever the function is invoked.
   
-  o	the final result of each pairs of value.
+	o	the final result of each pairs of value.
   
-  o	how many times the function is invoked.
+	o	how many times the function is invoked.
   
-  o	text instructions
+	o	text instructions
